@@ -1,0 +1,1 @@
+This repository contains a Python code example demonstrating an uncommon error related to unsupported operand types in the division operator. The code showcases how to handle this and other potential errors using try-except blocks. The bug.py file shows the initial code with the potential error, and bugSolution.py provides a refined version with improved error handling.
